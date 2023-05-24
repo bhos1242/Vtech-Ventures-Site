@@ -6,6 +6,7 @@
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
 }
+
 .navbar .nav-link {
   font-size: 16px !important;
 }
@@ -49,13 +50,11 @@
   border-bottom: 1px solid #565387;
 }
 
-
 /* Home CSS */
 #header {
   background-color: #f8f9fa;
   width: 100%;
   height: auto;
-
 }
 
 .header-content {
@@ -64,6 +63,7 @@
 
 .brand-name {
   color: #3498db;
+  font-weight: bold;
 }
 
 #header button {
@@ -72,11 +72,11 @@
   color: #3498db;
   padding: 0.5rem 1rem;
   font-size: 1rem;
-  font-weight: bold;
   text-transform: uppercase;
   cursor: pointer;
   transition: background-color 0.3s ease, color 0.3s ease;
   border-radius: 50px;
+  font-weight: bold;
 }
 
 #header button:hover {
@@ -88,14 +88,8 @@
   outline: none;
 }
 
-
 .header-image {
   text-align: center;
-}
-
-.header-image img {
-  max-width: 100%;
-  height: auto;
 }
 
 .header-image img {
@@ -145,12 +139,10 @@
   color: #777;
 }
 
-
-
-
 /* Contact Form */
 .container {
   max-width: 800px;
+  margin: 0 auto;
 }
 
 .mb-4 {
@@ -159,6 +151,7 @@
 
 .h1-responsive {
   font-size: 2.5rem;
+  font-weight: bold;
 }
 
 .text-center {
@@ -274,7 +267,6 @@
     text-align: left;
   }
 }
-
 
 /* Footer */
 .footer {
