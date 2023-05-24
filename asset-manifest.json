@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Vtech-Ventures-Site/static/css/main.80cca483.css",
+    "main.js": "/Vtech-Ventures-Site/static/js/main.484696a1.js",
+    "static/media/img2.jpg": "/Vtech-Ventures-Site/static/media/img2.f04dcaf45f4824cb9a1d.jpg",
+    "static/media/img4.jpg": "/Vtech-Ventures-Site/static/media/img4.710f4ea483fc52e9fcdd.jpg",
+    "static/media/img1.jpg": "/Vtech-Ventures-Site/static/media/img1.243b8b03348b560a5cad.jpg",
+    "static/media/img3.jpg": "/Vtech-Ventures-Site/static/media/img3.51dd21a496f7df3f9150.jpg",
+    "static/media/About.png": "/Vtech-Ventures-Site/static/media/About.c272fec7b656f6596530.png",
+    "static/media/logo-no-bg.png": "/Vtech-Ventures-Site/static/media/logo-no-bg.712b73d7653d500b4653.png",
+    "index.html": "/Vtech-Ventures-Site/index.html",
+    "main.80cca483.css.map": "/Vtech-Ventures-Site/static/css/main.80cca483.css.map",
+    "main.484696a1.js.map": "/Vtech-Ventures-Site/static/js/main.484696a1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80cca483.css",
+    "static/js/main.484696a1.js"
+  ]
+}
